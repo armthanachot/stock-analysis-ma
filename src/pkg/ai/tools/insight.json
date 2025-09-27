@@ -1,0 +1,553 @@
+{
+  "symbol": "NVDA",
+  "instrumentInfo": {
+    "technicalEvents": {
+      "provider": "Trading Central",
+      "sector": "Technology",
+      "shortTermOutlook": {
+        "stateDescription": "Recent bullish events outweigh bearish events.",
+        "direction": "Bullish",
+        "score": 2,
+        "scoreDescription": "Bullish Evidence",
+        "sectorDirection": "Bearish",
+        "sectorScore": 2,
+        "sectorScoreDescription": "Bearish Evidence",
+        "indexDirection": "Bearish",
+        "indexScore": 3,
+        "indexScoreDescription": "Strong Bearish Evidence"
+      },
+      "intermediateTermOutlook": {
+        "stateDescription": "Recent bullish events outweigh bearish events.",
+        "direction": "Bullish",
+        "score": 2,
+        "scoreDescription": "Bullish Evidence",
+        "sectorDirection": "Bullish",
+        "sectorScore": 2,
+        "sectorScoreDescription": "Bullish Evidence",
+        "indexDirection": "Neutral",
+        "indexScore": 0,
+        "indexScoreDescription": "Neutral Evidence"
+      },
+      "longTermOutlook": {
+        "stateDescription": "All events are bullish.",
+        "direction": "Bullish",
+        "score": 1,
+        "scoreDescription": "Weak Bullish Evidence",
+        "sectorDirection": "Bullish",
+        "sectorScore": 1,
+        "sectorScoreDescription": "Weak Bullish Evidence",
+        "indexDirection": "Bullish",
+        "indexScore": 1,
+        "indexScoreDescription": "Weak Bullish Evidence"
+      }
+    },
+    "keyTechnicals": {
+      "provider": "Trading Central",
+      "support": 141.78,
+      "resistance": 179.38,
+      "stopLoss": 166.97902
+    },
+    "valuation": {
+      "color": 0.5,
+      "description": "Near Fair Value",
+      "discount": "23%",
+      "provider": "Trading Central"
+    }
+  },
+  "companySnapshot": {
+    "sectorInfo": "Technology",
+    "company": {
+      "innovativeness": 0.885,
+      "hiring": 0.7978000000000001,
+      "sustainability": 0.1246,
+      "insiderSentiments": 0.1648,
+      "earningsReports": 0.9066,
+      "dividends": 0
+    },
+    "sector": {
+      "innovativeness": 0.5,
+      "hiring": 0.5,
+      "sustainability": 0.5,
+      "insiderSentiments": 0.5,
+      "earningsReports": 0.5,
+      "dividends": 0.5
+    }
+  },
+  "recommendation": {
+    "targetPrice": 220,
+    "provider": "Argus Research",
+    "rating": "BUY"
+  },
+  "upsell": {
+    "msBullishSummary": [
+      "The AI infrastructure opportunity is massive, as over $1 trillion of infrastructure is likely already deployed today and the company foresees up to $4 trillion more in spending through the rest of the decade.",
+      "Nvidia’s data center GPUs and Cuda software platform have established the company as the dominant vendor for AI model training and inference.",
+      "Nvidia is expanding nicely within AI, not just supplying industry-leading GPUs but also moving into networking, software, and services to tie these GPUs into even more-powerful clusters."
+    ],
+    "msBearishSummary": [
+      "Nvidia’s customers are a handful of the largest Tech companies in the world, and they all have incentive to eventually diversify away from Nvidia to some exten",
+      "AI infrastructure spending has been impressive but revenue and use cases are less certain, perhaps providing doubts that there is a good return on investment on AI that might lead to a spending downturn at some point in the future. ",
+      "Geopolitics have entered the AI space, most notably limiting Nvidia's AI opportunities in China. "
+    ],
+    "companyName": "NVIDIA Corporation",
+    "msBullishBearishSummariesPublishDate": "2025-09-22T19:38:21.000Z",
+    "upsellReportType": "MORNINGSTAR_ANALYST"
+  },
+  "upsellSearchDD": {
+    "researchReports": {
+      "reportId": "MS_0P000003RE_AnalystReport_1758569901000",
+      "provider": "Morningstar",
+      "title": "Nvidia: Shares Big AI Dreams With OpenAI as Firms Announce a Strategic Partnership",
+      "reportDate": "2025-09-22T19:38:21.000Z",
+      "summary": "Nvidia is a leading developer of graphics processing units. Traditionally, GPUs were used to enhance the experience on computing platforms, most notably in gaming applications on PCs. GPU use cases have since emerged as important semiconductors used in artificial intelligence to run large language models. Nvidia not only offers AI GPUs, but also a software platform, Cuda, used for AI model development and training. Nvidia is also expanding its data center networking solutions, helping to tie GPUs together to handle complex workloads. ",
+      "investmentRating": "Neutral"
+    }
+  },
+  "events": [
+    {
+      "eventType": "Momentum",
+      "pricePeriod": "D",
+      "tradingHorizon": "S",
+      "tradeType": "L",
+      "imageUrl": "https://s.yimg.com/uc/fin/img/assets/generic.svg",
+      "startDate": "2025-09-25T13:30:00.000Z",
+      "endDate": "2025-09-25T13:30:00.000Z"
+    }
+  ],
+  "reports": [
+    {
+      "id": "MS_0P000003RE_AnalystReport_1758569901000",
+      "headHtml": "Analyst Report: NVIDIA Corporation",
+      "provider": "Morningstar",
+      "reportDate": "2025-09-22T19:38:21.000Z",
+      "reportTitle": "Nvidia is a leading developer of graphics processing units. Traditionally, GPUs were used to enhance the experience on computing platforms, most notably in gaming applications on PCs. GPU use cases have since emerged as important semiconductors used in artificial intelligence to run large language models. Nvidia not only offers AI GPUs, but also a software platform, Cuda, used for AI model development and training. Nvidia is also expanding its data center networking solutions, helping to tie GPUs together to handle complex workloads. ",
+      "reportType": "Analyst Report",
+      "targetPrice": 190,
+      "targetPriceStatus": "Maintained",
+      "investmentRating": "Neutral",
+      "tickers": [
+        "NVDA"
+      ],
+      "title": "Nvidia: Shares Big AI Dreams With OpenAI as Firms Announce a Strategic Partnership"
+    },
+    {
+      "id": "MS_0P000003RE_AnalystReport_1758222633000",
+      "headHtml": "Analyst Report: NVIDIA Corporation",
+      "provider": "Morningstar",
+      "reportDate": "2025-09-18T19:10:33.000Z",
+      "reportTitle": "Nvidia is a leading developer of graphics processing units. Traditionally, GPUs were used to enhance the experience on computing platforms, most notably in gaming applications on PCs. GPU use cases have since emerged as important semiconductors used in artificial intelligence to run large language models. Nvidia not only offers AI GPUs, but also a software platform, Cuda, used for AI model development and training. Nvidia is also expanding its data center networking solutions, helping to tie GPUs together to handle complex workloads. ",
+      "reportType": "Analyst Report",
+      "targetPrice": 190,
+      "targetPriceStatus": "Maintained",
+      "investmentRating": "Neutral",
+      "tickers": [
+        "NVDA"
+      ],
+      "title": "Nvidia: Collaboration With Intel Might Bring Some Goodwill With US; Maintain $190 Fair Value"
+    }
+  ],
+  "sigDevs": [
+    {
+      "headline": "Hitachi Announces Nvidia AI Factory To Accelerate Physical AI Innovation",
+      "date": "2025-09-26T00:00:00.000Z"
+    }
+  ],
+  "secReports": [
+    {
+      "id": "0001045810-25-000207_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2025-08-27T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000207/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-25-000209_1045810",
+      "type": "Periodic Financial Reports",
+      "title": "10-Q : Periodic Financial Reports",
+      "description": "Quarterly report pursuant to Section 13 or 15(d)",
+      "filingDate": "2025-08-27T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000209/thumbnail.png",
+      "formType": "10-Q"
+    },
+    {
+      "id": "0001045810-25-000197_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2025-08-05T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000197/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-25-000179_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2025-07-01T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000179/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-25-000118_1045810",
+      "type": "Offering Registrations",
+      "title": "S-3ASR : Offering Registrations",
+      "description": "Automatic shelf registration statement of securities of well-known seasoned issuers",
+      "filingDate": "2025-05-28T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000118/thumbnail.png",
+      "formType": "S-3ASR"
+    },
+    {
+      "id": "0001045810-25-000115_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2025-05-28T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000115/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-25-000116_1045810",
+      "type": "Periodic Financial Reports",
+      "title": "10-Q : Periodic Financial Reports",
+      "description": "Quarterly report pursuant to Section 13 or 15(d)",
+      "filingDate": "2025-05-28T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000116/thumbnail.png",
+      "formType": "10-Q"
+    },
+    {
+      "id": "0001045810-25-000095_1045810",
+      "type": "Proxy Statements",
+      "title": "DEF 14A : Proxy Statements",
+      "description": "Definitive proxy statements",
+      "filingDate": "2025-05-13T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000095/thumbnail.png",
+      "formType": "DEF 14A"
+    },
+    {
+      "id": "0001045810-25-000086_1045810",
+      "type": "Proxy Statements",
+      "title": "PRE 14A : Proxy Statements",
+      "description": "Preliminary proxy statement not related to a contested matter or merger/acquisition",
+      "filingDate": "2025-05-01T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000086/thumbnail.png",
+      "formType": "PRE 14A"
+    },
+    {
+      "id": "0001045810-25-000082_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2025-04-15T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000082/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-25-000039_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2025-03-07T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000039/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-25-000021_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2025-02-26T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000021/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-25-000023_1045810",
+      "type": "Periodic Financial Reports",
+      "title": "10-K : Periodic Financial Reports",
+      "description": "Annual report pursuant to Section 13 and 15(d)",
+      "filingDate": "2025-02-26T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000023/thumbnail.png",
+      "formType": "10-K"
+    },
+    {
+      "id": "0001045810-25-000007_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2025-01-17T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581025000007/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-24-000315_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2024-11-20T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000315/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-24-000316_1045810",
+      "type": "Periodic Financial Reports",
+      "title": "10-Q : Periodic Financial Reports",
+      "description": "Quarterly report pursuant to Section 13 or 15(d)",
+      "filingDate": "2024-11-20T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000316/thumbnail.png",
+      "formType": "10-Q"
+    },
+    {
+      "id": "0001045810-24-000300_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2024-11-07T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000300/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-24-000262_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2024-08-28T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000262/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-24-000264_1045810",
+      "type": "Periodic Financial Reports",
+      "title": "10-Q : Periodic Financial Reports",
+      "description": "Quarterly report pursuant to Section 13 or 15(d)",
+      "filingDate": "2024-08-28T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000264/thumbnail.png",
+      "formType": "10-Q"
+    },
+    {
+      "id": "0001045810-24-000230_1045810",
+      "type": "Tender Offer/Acquisition Reports",
+      "title": "SC 13G : Tender Offer/Acquisition Reports",
+      "description": "Schedule filed to report acquisition of beneficial ownership of 5% or more of a class of equity securities by passive investors and certain institutions",
+      "filingDate": "2024-07-18T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001832483/000104581024000230/thumbnail.png",
+      "formType": "SC 13G"
+    },
+    {
+      "id": "0001045810-24-000206_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2024-07-02T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000206/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-24-000144_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2024-06-07T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000144/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-24-000124_1045810",
+      "type": "Periodic Financial Reports",
+      "title": "10-Q : Periodic Financial Reports",
+      "description": "Quarterly report pursuant to Section 13 or 15(d)",
+      "filingDate": "2024-05-29T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000124/thumbnail.png",
+      "formType": "10-Q"
+    },
+    {
+      "id": "0001045810-24-000113_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2024-05-22T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000113/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-24-000106_1045810",
+      "type": "Annual Report to Shareholders",
+      "title": "ARS : Annual Report to Shareholders",
+      "description": "Annual report to security holders",
+      "filingDate": "2024-05-14T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000106/thumbnail.png",
+      "formType": "ARS"
+    },
+    {
+      "id": "0001045810-24-000104_1045810",
+      "type": "Proxy Statements",
+      "title": "DEF 14A : Proxy Statements",
+      "description": "Definitive proxy statements",
+      "filingDate": "2024-05-14T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000104/thumbnail.png",
+      "formType": "DEF 14A"
+    },
+    {
+      "id": "0001045810-24-000105_1045810",
+      "type": "Proxy Statements",
+      "title": "DEFA14A : Proxy Statements",
+      "description": "Definitive additional proxy soliciting materials including Rule 14(a)(12) material. Note: Submission type DEFA14A can be filed as part of Form 8-K. For filers subject to 8-K filing requirements we recommend the use of the 8-K combined form type as the easiest method for fulfilling your filing requirement for both forms",
+      "filingDate": "2024-05-14T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000105/thumbnail.png",
+      "formType": "DEFA14A"
+    },
+    {
+      "id": "0001045810-24-000069_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2024-03-14T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000069/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-24-000029_1045810",
+      "type": "Periodic Financial Reports",
+      "title": "10-K : Periodic Financial Reports",
+      "description": "Annual report pursuant to Section 13 and 15(d)",
+      "filingDate": "2024-02-21T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000029/thumbnail.png",
+      "formType": "10-K"
+    },
+    {
+      "id": "0001045810-24-000028_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2024-02-21T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581024000028/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-23-000225_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2023-11-21T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000225/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-23-000227_1045810",
+      "type": "Periodic Financial Reports",
+      "title": "10-Q : Periodic Financial Reports",
+      "description": "Quarterly report pursuant to Section 13 or 15(d)",
+      "filingDate": "2023-11-21T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000227/thumbnail.png",
+      "formType": "10-Q"
+    },
+    {
+      "id": "0001045810-23-000221_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2023-10-24T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000221/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-23-000217_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2023-10-17T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000217/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-23-000175_1045810",
+      "type": "Periodic Financial Reports",
+      "title": "10-Q : Periodic Financial Reports",
+      "description": "Quarterly report pursuant to Section 13 or 15(d)",
+      "filingDate": "2023-08-28T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000175/thumbnail.png",
+      "formType": "10-Q"
+    },
+    {
+      "id": "0001045810-23-000171_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2023-08-23T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000171/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-23-000164_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2023-07-24T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000164/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-23-000146_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2023-06-27T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000146/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-23-000095_1045810",
+      "type": "Offering Registrations",
+      "title": "S-3/A : Offering Registrations",
+      "description": "Registration statement for specified transactions by certain issuers",
+      "filingDate": "2023-05-26T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000095/thumbnail.png",
+      "formType": "S-3/A"
+    },
+    {
+      "id": "0001045810-23-000093_1045810",
+      "type": "Periodic Financial Reports",
+      "title": "10-Q : Periodic Financial Reports",
+      "description": "Quarterly report pursuant to Section 13 or 15(d)",
+      "filingDate": "2023-05-26T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000093/thumbnail.png",
+      "formType": "10-Q"
+    },
+    {
+      "id": "0001045810-23-000087_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2023-05-24T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000087/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-23-000080_1045810",
+      "type": "Proxy Statements",
+      "title": "DEF 14A : Proxy Statements",
+      "description": "Definitive proxy statements",
+      "filingDate": "2023-05-08T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000080/thumbnail.png",
+      "formType": "DEF 14A"
+    },
+    {
+      "id": "0001045810-23-000039_1045810",
+      "type": "Corporate Changes & Voting Matters",
+      "title": "8-K : Corporate Changes & Voting Matters",
+      "description": "Current report filing",
+      "filingDate": "2023-03-08T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000039/thumbnail.png",
+      "formType": "8-K"
+    },
+    {
+      "id": "0001045810-23-000021_1045810",
+      "type": "Offering Registrations",
+      "title": "S-3 : Offering Registrations",
+      "description": "Registration statement for specified transactions by certain issuers",
+      "filingDate": "2023-02-28T00:00:00.000Z",
+      "snapshotUrl": "https://cdn.yahoofinance.com/prod/sec-reports-thumbnails/0001045810/000104581023000021/thumbnail.png",
+      "formType": "S-3"
+    }
+  ]
+}

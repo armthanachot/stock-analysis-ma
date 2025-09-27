@@ -6,7 +6,10 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
-    "elysia": "latest"
+    "dotenv": "^17.2.2",
+    "elysia": "latest",
+    "openai": "^5.23.1",
+    "yahoo-finance2": "^2.13.3"
   },
   "devDependencies": {
     "bun-types": "latest"
