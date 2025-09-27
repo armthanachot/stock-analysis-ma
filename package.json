@@ -9,7 +9,10 @@
     "dotenv": "^17.2.2",
     "elysia": "latest",
     "openai": "^5.23.1",
-    "yahoo-finance2": "^2.13.3"
+    "technicalindicators": "^3.1.0",
+    "yahoo-finance2": "^2.13.3",
+    "zod": "^4.1.11",
+    "zod-to-json-schema": "^3.24.6"
   },
   "devDependencies": {
     "bun-types": "latest"
