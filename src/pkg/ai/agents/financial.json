@@ -1,0 +1,190 @@
+{
+    "analysis": {
+      "summary": "สรุปสั้น (ภาษาไทย):\n- สำหรับสาย VI ที่มอง TF 1wk จุดแนวรับที่ “น่าสนใจมากที่สุด” ในปีนี้คือ ~141.8 USD (support เทคนิคจาก Trading Central และเป็นระดับสะสมหลังฐานช่วง มิ.ย.–ก.ค.)\n- ถ้าต้องการ “ซื้อเชิงมูลค่า (VI)” ระดับลึกที่ให้ความปลอดภัยเพิ่มขึ้นคือ 115–120 USD (โซนรองรับเชิงโครงสร้าง/หลายครั้งมีการย่อลงมารวมตัว) และกรณีวิกฤติ/ตลาดกว้างอ่อนแรงสุดคือ 96–86.6 USD (ปีนี้ low). \n- ปัจจุบันราคา ~178 USD อยู่ใกล้แนวต้านบริเวณ 179–184 USD — สำหรับ VI ควรรอการย่อตัวลงโซน 142 หรือ 115 ก่อนทยอยเข้าลงทุนเพื่อ margin of safety.",
+      "recommendation": "HOLD",
+      "confidence": 0.66,
+      "targetPrice": 220,
+      "timeframe": "long_term",
+      "keyInsights": [
+        "Weekly support cluster ที่สำคัญ: 141.78 USD (Trading Central) — ถือเป็นโซนสะสมที่เหมาะสำหรับ VI",
+        "รองรับสำคัญถัดไป: 115–120 USD — พื้นที่สะสมลึกจากการรวมตัว/ฐานเดิมใน Q1–Q2 2025",
+        "โอกาสระยะยาว: การครองตลาด GPU เพื่อ AI และกระแสดีมานด์ Data Center หนุน Growth และ FCF สูง",
+        "งบดุลแข็งแกร่ง: กระแสเงินสดอิสระและเงินสดสุงมาก ทำให้บริษัทสามารถถือระยะยาวได้ดี"
+      ],
+      "risks": [
+        "Valuation risk — ราคายังสะท้อน growth; ถ้าไม่มี pullback ราคาจะไม่เป็นมูลค่า VI",
+        "Cyclicality / spending risk — การชะลอการลงทุน AI ของลูกค้ารายใหญ่จะกระทบรายได้อย่างรวดเร็ว",
+        "Geopolitical / export controls — ข้อจำกัดการขายให้จีน จะจำกัดการเติบโตในบางภูมิภาค",
+        "Market risk — การย่อตัวของตลาดรวมอาจฉุดราคาลงทะลุแนวรับสำคัญ"
+      ],
+      "opportunities": [
+        "ซื้อเมื่อราคาย่อลงสู่ 142 USD หรือ 115–120 USD เพื่อ margin-of-safety",
+        "นโยบาย buy-on-weakness: ทยอยสะสมเป็นงวด (dollar-cost averaging) เมื่อราคาเข้ากลุ่มแนวรับเชิงโครงสร้าง",
+        "ถ้าเกิด sell-off ใหญ่ (ราคา <100 USD) เป็นโอกาสสำคัญสำหรับผู้ลงทุนเชิงมูลค่า"
+      ]
+    },
+    "priceAnalysis": {
+      "currentPrice": 178.19,
+      "priceChange": -0.24,
+      "priceChangePercent": -0.13,
+      "dayRange": {
+        "low": 174.93,
+        "high": 179.77
+      },
+      "volume": 148071154,
+      "avgVolume": null
+    },
+    "technicalAnalysis": {
+      "trend": "BULLISH",
+      "shortTermOutlook": {
+        "direction": "Bullish",
+        "score": 60,
+        "description": "บน TF 1wk ราคายังอยู่ในเทรนด์ขาขึ้นระยะสั้นและทดสอบแนวต้าน 179–184 USD; momentum อ่อนลงเล็กน้อย แต่ไม่มีสัญญาณกลับตัวแรง"
+      },
+      "intermediateTermOutlook": {
+        "direction": "Bullish",
+        "score": 65,
+        "description": "ฐานระยะกลางตั้งแต่ มิ.ย. 2025 ขึ้นไปชัดเจน — แต่มีแนวรับสำคัญที่ 141.8 และ 115–120 USD"
+      },
+      "longTermOutlook": {
+        "direction": "Bullish",
+        "score": 75,
+        "description": "โมเดลธุรกิจและงบการเงินสนับสนุนมุมมองระยะยาว; growth story ของ AI ยังคงแข็งแรง"
+      },
+      "keyLevels": {
+        "support": 141.78,
+        "resistance": 179.38,
+        "stopLoss": 163.13
+      },
+      "valuation": {
+        "description": "Near fair value to modest premium depending on analyst; trading central shows 'Near Fair Value' with a stated ~23% discount in their proprietary metric",
+        "discount": "~0–23% (provider-dependent)",
+        "color": 0.5
+      }
+    },
+    "fundamentalAnalysis": {
+      "valuation": "FAIRLY_VALUED",
+      "financialStrength": "EXCELLENT",
+      "growthProspects": "EXCELLENT",
+      "keyMetrics": {
+        "marketCap": null,
+        "peRatio": 60,
+        "eps": 2.94,
+        "basicEPS": null,
+        "dilutedEPS": 2.94,
+        "totalRevenue": 130497000000,
+        "revenueGrowth": 196,
+        "operatingIncome": 81453000000,
+        "netIncome": 72880000000,
+        "grossProfit": 97858000000,
+        "profitMargin": 55.8,
+        "operatingMargin": 62.4,
+        "totalDebt": 10270000000,
+        "totalEquity": 79327000000,
+        "debtToEquity": 0.13,
+        "currentRatio": 4.44,
+        "freeCashFlow": 60853000000,
+        "ebitda": 86137000000
+      },
+      "recentQuarterlyData": [
+        {
+          "date": "2025-07-31",
+          "totalRevenue": 46743000000,
+          "operatingIncome": 28440000000,
+          "netIncome": 26422000000,
+          "basicEPS": 1.08,
+          "dilutedEPS": 1.08,
+          "grossProfit": 33853000000
+        }
+      ],
+      "balanceSheetHighlights": {
+        "totalAssets": 140740000000,
+        "totalLiabilities": 40609000000,
+        "stockholdersEquity": 100131000000,
+        "cashAndEquivalents": 11639000000,
+        "inventory": 14962000000,
+        "accountsReceivable": 27808000000
+      }
+    },
+    "analystInsights": {
+      "overallRecommendation": {
+        "rating": "MIXED_TO_POSITIVE",
+        "targetPrice": 200,
+        "provider": "consensus (190–220)"
+      },
+      "reports": [
+        {
+          "title": "Argus Research target",
+          "provider": "Argus Research",
+          "reportDate": "2025-09-22",
+          "investmentRating": "BUY",
+          "targetPrice": 220
+        },
+        {
+          "title": "Morningstar analyst report",
+          "provider": "Morningstar",
+          "reportDate": "2025-09-18",
+          "investmentRating": "NEUTRAL",
+          "targetPrice": 190
+        }
+      ],
+      "bullishFactors": [
+        "ผู้นำเทคโนโลยี GPU และแพลตฟอร์ม CUDA",
+        "รายได้จาก data center/AI เพิ่มขึ้นมากและ FCF สูง",
+        "งบดุลแข็งแรง, หนี้ไม่สูง และมีเงินสดสำรองเยอะ"
+      ],
+      "bearishFactors": [
+        "การพึ่งพาลูกค้ารายใหญ่ (concentration risk)",
+        "มูลค่าที่สะท้อนการเติบโตสูง — เสี่ยงต่อ downside ถ้า growth ชะลอ",
+        "ความเสี่ยงด้านนโยบายการส่งออกและภูมิรัฐศาสตร์"
+      ]
+    },
+    "newsAnalysis": {
+      "sentiment": "POSITIVE",
+      "keyNews": [
+        {
+          "title": "NVIDIA To Invest $100B In OpenAI (Strategic Partnership)",
+          "summary": "ข่าวการลงทุน/ความร่วมมือขนาดใหญ่กับ OpenAI — ช่วยยืนยันตำแหน่งผู้นำใน AI infrastructure",
+          "impact": "HIGH",
+          "sentiment": "POSITIVE",
+          "publishedDate": "2025-09-26"
+        },
+        {
+          "title": "Nvidia Equips GeForce Now with RTX 5080 Blackwell SuperPods",
+          "summary": "การอัพเกรดผลิตภัณฑ์และ ecosystem ต่อกลุ่มลูกค้าเกม/คอนซูเมอร์",
+          "impact": "MEDIUM",
+          "sentiment": "POSITIVE",
+          "publishedDate": "2025-09-27"
+        },
+        {
+          "title": "Why Is Nvidia Down 1.4% Since Last Earnings Report?",
+          "summary": "บทความวิเคราะห์ความผันผวนระยะสั้นหลังงบ — แสดงว่าตลาดอาจปรับราคาตามข่าวระยะสั้นได้เร็ว",
+          "impact": "MEDIUM",
+          "sentiment": "NEUTRAL",
+          "publishedDate": "2025-09-26"
+        }
+      ],
+      "significantDevelopments": [
+        "ความร่วมมือ/ลงทุนขนาดใหญ่กับ OpenAI",
+        "ขยายผลิตภัณฑ์ GPU/AI และ Data Center ecosystem"
+      ],
+      "marketFactors": [
+        "แรงผลักดันจากการลงทุนด้าน AI และ Data Center",
+        "นโยบายการคุมส่งออกชิปไปจีน",
+        "ภาวะดอกเบี้ยและ risk-on/risk-off ของตลาดหุ้นโดยรวม"
+      ]
+    },
+    "metadata": {
+      "symbol": "NVDA",
+      "analysisDate": "2025-09-27",
+      "dataTimeframe": {
+        "from": "2025-01-01",
+        "to": "2025-09-26",
+        "interval": "1wk"
+      },
+      "analysisType": "financial",
+      "aiModel": "gpt-4o",
+      "disclaimer": "ข้อมูลด้านบนเป็นการวิเคราะห์เชิงข้อมูลและความเห็นของ AI โดยอาศัยข้อมูลทางการเงินและข่าวสาธารณะจนถึงวันที่ระบุ ไม่ใช่การรับประกันผลการลงทุน ผู้ลงทุนควรพิจารณาความเสี่ยงส่วนบุคคลและปรึกษาที่ปรึกษาทางการเงินก่อนตัดสินใจลงทุน."
+    }
+  }
+  
