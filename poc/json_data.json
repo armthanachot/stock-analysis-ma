@@ -1,0 +1,221 @@
+{
+  "analysis": {
+    "summary": "สรุปสั้น ๆ (ภาษาไทย): สำหรับ MELI บนกราฟรายสัปดาห์ (TF 1wk) แนวรับระยะยาวที่สำคัญอยู่บริเวณ EMA100 และ EMA200 ประมาณระดับ ~1,980 และ ~1,670 ตามลำดับ โดยแนวรับเชิงจิตวิทยา/รอบใหญ่ที่ควรจับตามองอยู่ที่ 2,000 และ 1,500–1,600 หากราคาหลุด EMA200 จะเป็นสัญญาณ bearish ระยะยาวที่ชัดเจน ผู้ลงทุนระยะยาวควรใช้ EMA200 เป็นเกณฑ์หลักสำหรับการตัดสินใจรักษาตำแหน่งหรือพิจารณาลดพอร์ต",
+    "recommendation": "HOLD",
+    "confidence": 0.60,
+    "targetPrice": null,
+    "timeframe": "long_term",
+    "keyInsights": [
+      "แนวรับสำคัญ (TF 1wk): ~2,200 (EMA50), ~1,980 (EMA100), ~1,670 (EMA200)",
+      "EMA20 (สั้น) อยู่เหนือ/ใต้ราคาปัจจุบันเป็นตัวบ่งชี้ทิศทางระยะสั้น — ปัจจุบันมีแรงกดดันระยะสั้น",
+      "หากสัปดาห์ใดปิดต่ำกว่า EMA200 (≈1,670) จะเป็นสัญญาณอ่อนแอของแนวโน้มระยะยาว",
+      "จุดเข้าเชิงกลยุทธ์สำหรับนักสะสมระยะยาวคือการมีสัญญาณ reversal บริเวณ 2,000–1,700"
+    ],
+    "risks": [
+      "การหลุดแนวรับ EMA200 จะทำให้เทรนด์ระยะยาวเปลี่ยนเป็น bearish",
+      "ความผันผวนจากปัจจัยเศรษฐกิจมหภาคหรือข่าวบริษัทที่รุนแรง",
+      "ความเสี่ยงด้านราคาตกหนักในช่วงตลาดหุ้นกว้างตัวลดลง"
+    ],
+    "opportunities": [
+      "รีบาวน์จาก EMA100–EMA200 ให้โอกาสสะสมต้นทุนเฉลี่ย",
+      "หากยืนเหนือ EMA50 ต่อเนื่อง มีโอกาสฟื้นตัวกลับสู่แนวต้านถัดไป"
+    ]
+  },
+  "priceAnalysis": {
+    "currentPrice": 2336.94,
+    "priceChange": null,
+    "priceChangePercent": null,
+    "dayRange": {
+      "low": null,
+      "high": null
+    },
+    "volume": null,
+    "avgVolume": null
+  },
+  "technicalAnalysis": {
+    "trend": "NEUTRAL",
+    "shortTermOutlook": {
+      "direction": "Bearish",
+      "score": 40,
+      "description": "EMA20 อยู่เหนือ/ใกล้ราคาปัจจุบันและ MACD histogram เป็นลบ ชี้แรงกดดันระยะสั้น"
+    },
+    "intermediateTermOutlook": {
+      "direction": "Bullish",
+      "score": 65,
+      "description": "EMA50 ยังอยู่ต่ำกว่าราคาและเป็นแนวรับสำคัญ ถ้ายืนได้จะกลับเป็นบวก"
+    },
+    "longTermOutlook": {
+      "direction": "Bullish",
+      "score": 70,
+      "description": "EMA100 และ EMA200 ยังชี้แนวโน้มขาขึ้นระยะยาวตราบไม่หลุด EMA200"
+    },
+    "keyLevels": {
+      "support": 1671.5865631595939,
+      "resistance": 2376.485913562713,
+      "stopLoss": 1650
+    },
+    "valuation": {
+      "description": "valuation not assessed in this technical-focused reply",
+      "discount": "unknown",
+      "color": 0
+    }
+  },
+  "fundamentalAnalysis": {
+    "valuation": "UNKNOWN",
+    "financialStrength": "UNKNOWN",
+    "growthProspects": "UNKNOWN",
+    "keyMetrics": {
+      "marketCap": null,
+      "peRatio": null,
+      "eps": null,
+      "basicEPS": null,
+      "dilutedEPS": null,
+      "totalRevenue": null,
+      "revenueGrowth": null,
+      "operatingIncome": null,
+      "netIncome": null,
+      "grossProfit": null,
+      "profitMargin": null,
+      "operatingMargin": null,
+      "totalDebt": null,
+      "totalEquity": null,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "freeCashFlow": null,
+      "ebitda": null
+    },
+    "recentQuarterlyData": []
+  ,
+    "balanceSheetHighlights": {
+      "totalAssets": null,
+      "totalLiabilities": null,
+      "stockholdersEquity": null,
+      "cashAndEquivalents": null,
+      "inventory": null,
+      "accountsReceivable": null
+    }
+  },
+  "analystInsights": {
+    "overallRecommendation": {
+      "rating": "Mixed / HOLD",
+      "targetPrice": null,
+      "provider": ""
+    },
+    "reports": [],
+    "bullishFactors": [
+      "แนวโน้มระยะยาว (EMA100/200) ยังคงเป็นแนวรับสำคัญ",
+      "มีโอกาส rebound หลังการปรับฐาน"
+    ],
+    "bearishFactors": [
+      "MACD histogram เชิงลบ และ RSI กลางๆ บ่งชี้แรงซื้อไม่แน่นพอ",
+      "การหลุด EMA200 จะทำให้มุมมองเปลี่ยนเป็นลบอย่างชัดเจน"
+    ]
+  },
+  "newsAnalysis": {
+    "sentiment": "NEUTRAL",
+    "keyNews": [],
+    "significantDevelopments": [],
+    "marketFactors": [
+      "ภาวะตลาดโลกและ sentiment เทคโนโลยี/ผู้บริโภคมีผลต่อหุ้นกลุ่ม e‑commerce",
+      "อัตราดอกเบี้ยและเศรษฐกิจลาตินอเมริกาส่งผลต่อธุรกิจ MERCADO LIBRE"
+    ]
+  },
+  "metadata": {
+    "symbol": "MELI",
+    "analysisDate": "2025-10-01",
+    "dataTimeframe": {
+      "from": "2020-01-01",
+      "to": "2025-10-01",
+      "interval": "1wk"
+    },
+    "analysisType": "financial",
+    "aiModel": "gpt-4o (analysis)",
+    "disclaimer": "ข้อมูลนี้มีวัตถุประสงค์เพื่อการให้ข้อมูลเท่านั้น ไม่ใช่คำแนะนำการลงทุน โปรดตรวจสอบข้อมูลล่าสุดและปรึกษาที่ปรึกษาทางการเงินก่อนตัดสินใจลงทุน"
+  },
+  "indicatorAnalysis": {
+    "rsi": {
+      "current": 49.79,
+      "signal": "neutral",
+      "interpretation": "RSI ≈50 แสดงว่าไม่มีสภาพ overbought หรือ oversold ชัดเจน — momentum กลางๆ"
+    },
+    "ema": {
+      "ema20": 2376.485913562713,
+      "ema50": 2213.3755998042566,
+      "ema100": 1979.0700971715585,
+      "ema200": 1671.5865631595939,
+      "trend": "neutral",
+      "crossoverSignals": [
+        "EMA20 ใกล้ราคาปัจจุบัน — ถ้าไม่สามารถกลับเหนือ EMA20 จะกดดันระยะสั้น",
+        "EMA50 อยู่ที่ ~2,213 เป็นแนวรับแรกที่ควรยืนได้เพื่อกลับ bullish",
+        "EMA100 (~1,979) เป็นแนวรับสำคัญของการปรับฐานระยะกลาง",
+        "EMA200 (~1,672) เป็นแนวรับระยะยาวที่แข็งแกร่ง — หลุดจะเปลี่ยนภาพเทรนด์"
+      ]
+    },
+    "macd": {
+      "macd": 56.76871220355406,
+      "signal": 78.26760030351718,
+      "histogram": -21.498888099963125,
+      "trend": "bearish",
+      "divergence": "none",
+      "interpretation": "MACD อยู่ต่ำกว่าเส้นสัญญาณและ histogram ติดลบ ชี้แรงขายระยะสั้น–กลาง มีแนวโน้มอ่อนแรงจนกว่าจะเกิด bullish crossover"
+    },
+    "supportResistance": {
+      "nearestSupport": 2213.3755998042566,
+      "nearestResistance": 2376.485913562713,
+      "supportLevels": [
+        {
+          "level": 2213.3755998042566,
+          "strength": 6,
+          "lastTested": 2
+        },
+        {
+          "level": 1979.0700971715585,
+          "strength": 8,
+          "lastTested": 12
+        },
+        {
+          "level": 1671.5865631595939,
+          "strength": 9,
+          "lastTested": 40
+        }
+      ],
+      "resistanceLevels": [
+        {
+          "level": 2376.485913562713,
+          "strength": 5,
+          "lastTested": 1
+        },
+        {
+          "level": 2600,
+          "strength": 4,
+          "lastTested": 20
+        }
+      ],
+      "keyLevelsAnalysis": "แนวรับระยะยาวที่แข็งแกร่งคือ EMA200 (~1,670) หากราคายืนได้ข้างบนจะยังมีโอกาสฟื้น แต่หากหลุดลงมาและปิดสัปดาห์ต่ำกว่า EMA200 ควรพิจารณาลดความเสี่ยง"
+    },
+    "trend": {
+      "shortTerm": "bearish",
+      "mediumTerm": "bullish",
+      "longTerm": "bullish",
+      "overallTrend": "bullish",
+      "trendStrength": 60,
+      "trendAnalysis": "ภาพรวมระยะยาวยังเอียงไปทาง bullish แต่ระยะสั้นมีแรงกดดัน ต้องรอการยืนเหนือ EMA50 และการกลับเป็นบวกของ MACD เพื่อยืนยันการฟื้นตัว"
+    },
+    "tradingSignals": {
+      "entrySignals": [
+        "สะสมเมื่อราคาลดลงมาที่ EMA100–EMA200 (ประมาณ 1,980–1,670) พร้อมแท่งเทียนกลับตัวและ volume สนับสนุน",
+        "ซื้อคืนเมื่อ weekly ปิดเหนือ EMA20 (≈2,376) และ MACD เกิด bullish crossover"
+      ],
+      "exitSignals": [
+        "ปิดสัปดาห์ต่ำกว่า EMA200 (~1,670) — พิจารณาขาย/ลดพอร์ต",
+        "หากราคาไม่สามารถยืนเหนือ EMA50 (~2,213) ต่อเนื่อง ให้พิจารณาตัดขาดทุนหรือลดสัดส่วน"
+      ],
+      "riskManagement": {
+        "stopLoss": 1650,
+        "takeProfit": 3000,
+        "riskReward": 2
+      },
+      "signalStrength": "moderate"
+    }
+  }
+}

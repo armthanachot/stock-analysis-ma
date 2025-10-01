@@ -352,8 +352,8 @@ export const technicalTools: Array<Tool> = [
     },
 ];
 
-console.log(await getStockTechnical("NVDA",{
-    period1: new Date(new Date().setFullYear(new Date().getFullYear() - 5)).toISOString(),
-    period2: new Date().toISOString(),
-    interval: "1wk"
-}));
+// console.log(await getStockTechnical("NVDA",{
+//     period1: new Date(new Date().setFullYear(new Date().getFullYear() - 5)).toISOString(),
+//     period2: new Date().toISOString(),
+//     interval: "1wk"
+// }));
