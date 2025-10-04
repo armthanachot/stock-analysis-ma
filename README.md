@@ -4,3 +4,10 @@
 1. ดึงราคา ย้อนหลังสัก 5 ปี มาวิเคราะห์ ตามเทคนิตต่างๆ --> technical agent
 2. ดึงพวก balance sheet, financial sheet, งบ เงินสด หนี้ อะไรต่างๆ มาวิเคราะห์ --> document agent
 3. ดึงข่าว แบ่งเป็นข่าวเศรษฐกิจมหภาค เช่น  การตัดสินใจของ Fed (อัตราดอกเบี้ย), ตัวเลขเงินเฟ้อ (CPI), ตัวเลขการจ้างงาน (Non-Farm Payrolls), ข่าวเฉพาะเจาะจงหุ้นนั้น, ข่าวอุตสาหกรรม
+
+
+
+# Alpha Vantage
+- https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=NVDA&interval=5min
+    - ดึงราคา NVDA ระหว่างวัน (วันล่าสุด โดย interval 5 นาที) 
+    - ได้ราคาของวันเดียว

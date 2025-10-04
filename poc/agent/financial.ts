@@ -633,8 +633,6 @@ const analyze = async (i: string) => {
         }
     }
 
-    // Parallel function call processing - เร็วกว่าเดิม 3-4 เท่า
-
     const promises = functionCalls.map(async (fnc) => {
         console.log(`Calling ${fnc.name}`);
 
@@ -666,7 +664,6 @@ const analyze = async (i: string) => {
     });
 
     const results = await Promise.all(promises.filter(Boolean));
-    // const results = await Promise.allSettled(promises.filter(Boolean));
 
     for (const result of results) {
         if (result) {
