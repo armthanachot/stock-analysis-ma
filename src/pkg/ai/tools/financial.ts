@@ -23,28 +23,25 @@ export const getStockInsight = async (symbol: string) => {
         period1: period1,
         period2: period2,
         type: "quarterly",
-        module: "all" //balance-sheet, financials, income-statement, cash-flow
+        // module: "all" //balance-sheet, financials, income-statement, cash-flow
+        module: "financials" //balance-sheet, financials, income-statement, cash-flow
     })
 
-    const allAnnualData = await yahooFinance.fundamentalsTimeSeries(symbol, {
-        period1: period1,
-        period2: period2,
-        type: "annual",
-        module: "all"
-    })
+    // ลบ allAnnualData เพื่อลดข้อมูลและเพิ่มความเร็ว
 
     const analysis = await yahooFinance.insights(symbol)
     return {
         instrumentInfo: analysis.instrumentInfo,
         recommendation: analysis.recommendation,
-        upsell: analysis.upsell,
         reports: analysis.reports,
         sigDevs: analysis.sigDevs,
-        secReports: analysis.secReports,
-        allQuarterlyData: allQuarterlyData,
-        allAnnualData: allAnnualData
+        quarterlyFinancials: allQuarterlyData
+        // ลบ upsell, secReports, allAnnualData ที่ไม่จำเป็น
     }
 }
+
+// console.log(await getStockInsight("NVDA"));
+
 
 export const financialTools: Array<Tool> = [
     {

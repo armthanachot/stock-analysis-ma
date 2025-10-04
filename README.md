@@ -1,15 +1,6 @@
-# Elysia with Bun runtime
+# Plan
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
-
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
-
-Open http://localhost:3000/ with your browser to see the result.
+### Multi Agent 
+1. ดึงราคา ย้อนหลังสัก 5 ปี มาวิเคราะห์ ตามเทคนิตต่างๆ --> technical agent
+2. ดึงพวก balance sheet, financial sheet, งบ เงินสด หนี้ อะไรต่างๆ มาวิเคราะห์ --> document agent
+3. ดึงข่าว แบ่งเป็นข่าวเศรษฐกิจมหภาค เช่น  การตัดสินใจของ Fed (อัตราดอกเบี้ย), ตัวเลขเงินเฟ้อ (CPI), ตัวเลขการจ้างงาน (Non-Farm Payrolls), ข่าวเฉพาะเจาะจงหุ้นนั้น, ข่าวอุตสาหกรรม

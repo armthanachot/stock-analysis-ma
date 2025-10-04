@@ -230,7 +230,7 @@ export const getStockTechnical = async (symbol: string, option: HistoricalOption
         highPrices, 
         lowPrices, 
         closePrices, 
-        10, // lookback period
+        5, // lookback period
         2   // minimum touch count
     );
 

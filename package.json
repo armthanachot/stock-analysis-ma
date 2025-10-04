@@ -6,6 +6,7 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.19.1",
     "dotenv": "^17.2.2",
     "elysia": "latest",
     "openai": "^5.23.1",
