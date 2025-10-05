@@ -23,70 +23,26 @@ const analyze = async (i: string) => {
     const resp = await client.responses.create({
         model: "gpt-5",
         instructions:`
-            use the provided getStockPrice to get history data.
-            and use getStockTechnical to calculate the technical indicators.
-            for support and resistance, the tools may provide responses, but it's important to verify these prices to ensure accuracy.
+            use get_stock_indicators to calculate the technical indicators.
+            for support and resistance, the mcp may provide responses, but it's important to verify these prices to ensure accuracy.
         `,
         tools: [
-            ...financialTools,
-            ...technicalTools,
+            {
+                type: "mcp",
+                server_label:"stock-indicators",
+                server_description:"A stock indicators server to assist with technical analysis.",
+                server_url:`https://cfd08810db1e.ngrok-free.app/sse`,
+                require_approval:"never",
+            }
         ],
         input: input,
     });
 
-    const functionCalls: Array<{ name: string, arguments: string }> = [];
-    for (const fnc of resp.output) {
-        if (fnc.type === "function_call") {
-            functionCalls.push({
-                name: fnc.name,
-                arguments: fnc.arguments
-            });
-        }
-    }
-
-    const promises = functionCalls.map(async (fnc) => {
-        console.log(`Calling ${fnc.name}`);
-
-        if (fnc.name === "getStockPrice") {
-            const arg = JSON.parse(fnc.arguments) as { symbol: string, option: HistoricalOptionsEventsHistory }
-            const resp = await getStockPrice(arg.symbol, arg.option);
-            return { name: fnc.name, result: resp };
-        }
-
-        else if (fnc.name === "getStockTechnical") {
-            const arg = JSON.parse(fnc.arguments) as { symbol: string, option: HistoricalOptionsEventsHistory }
-            const resp = await getStockTechnical(arg.symbol, arg.option);
-            return { name: fnc.name, result: resp };
-        }
-
-        return null;
-    });
-
-    const results = await Promise.all(promises.filter(Boolean));
-
-    for (const result of results) {
-        if (result) {
-            input.push({
-                role: "assistant",
-                content: JSON.stringify(result.result, null, 2)
-            });
-        }
-    }
-
-    const finalResp = await client.responses.create({
-        model: "gpt-5",
-        input: input,
-    });
-
-    console.log(JSON.stringify(finalResp, null, 2));
-    console.log();
-    console.log();
-    console.log();
-    
-    console.log(JSON.stringify(finalResp.usage, null, 2));
+    console.log(JSON.stringify(resp, null, 2));
+    // console.log(JSON.stringify(resp.usage, null, 2));
     
 
-    return finalResp.output_text
+    return resp.output_text
 }
 
 
